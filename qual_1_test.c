@@ -38,3 +38,6 @@ struct no{
 struct no *access = (struct no*)malloc(10*sizeof(struct no));
 
 access
+
+name :sawan ROy
+company moschip
